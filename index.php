@@ -1,5 +1,8 @@
 <html lang="es" class="no-js" dir="ltr">
 <head>
+<?php
+  include("config.php");
+?>
 <title>Instituto Mar de Cortés</title>
 <meta charset="utf-8" />
 <meta http-equiv="x-ua-compatible" content="ie=edge">
@@ -110,9 +113,6 @@
     
 
         
-
-
-
 
 
 
